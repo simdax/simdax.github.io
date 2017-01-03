@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 Bienvenue
 ==
 
@@ -8,6 +12,6 @@ Bienvenue
 Simdax | Invente | Mots | Débutant | Avec | X
 Simdax, | Ignore | Moi. | Donne | Aux | Xénophiles
 Simdax | Interprète | Mélodies | Douces | Au | Xylophone
-Simdax | Is | My | Digital | Acronym. | Xxx 
+Simdax | Is | My | Digital | Acronym. | Xxx
 
 

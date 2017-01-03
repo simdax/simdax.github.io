@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<!--
+    Dimension by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
+<html>
+  <head>
+    <title>Redemption</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+{{content}}
+  </body>
+</html>

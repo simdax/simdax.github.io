@@ -1,0 +1,3 @@
+[submodule "EVO"]
+	path = EVO
+	url = http://github.com/simdax/EVO

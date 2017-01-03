@@ -1,3 +1,6 @@
 [submodule "EVO"]
 	path = EVO
 	url = https://github.com/simdax/EVO
+[submodule "redemption"]
+	path = redemption
+	url = https://github.com/simdax/redemption

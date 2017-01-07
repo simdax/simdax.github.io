@@ -3,10 +3,15 @@ princesse, qui, un jour, me déclara solenellement :
 
 La Bio, c'est les 3 B : "boire, bouffer, baiser".
 
-Je ne sais pas vraiment comment un mâle de 25 ans normalement
-constitué auraît dû prendre la chose. Naturellement, je me suis dit
-que quand même, "boire" et "bouffer", conceptuellement parlant,
-c'était assez redondant.
+hmmm
+
+Comment aurais-je dû prendre la chose ?
+
+<!-- "Comment un mâle de 25 ans normalement réagirait-il", me suis-je -->
+<!-- parfois demandé dans la solitude de l'abstraction. -->
+Naturellement, je
+me suis dit que quand même, "boire" et "bouffer", conceptuellement
+parlant, c'était assez redondant.
 
 ---
 
@@ -45,6 +50,9 @@ En même temps, c'est une princesse assez badass qui aime bien les
 trucs dégueus, baiser et péter, c'est un truc hyper spécifique au
 vivant ces deux trucs. On trouve pas ça ni en physique quantique ni en
 histoire-géo.
+
+---
+
 
 Le vivant, c'est l'animal ou le végétal. L'animal ou le végétal, c'est
 une économie. L'animal ou le végétal, c'est l'auto-trophie ou

@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: SIMDAX
+theme: jekyll-theme-architect
+
+exclude:
+  - redemption
+  - EVO

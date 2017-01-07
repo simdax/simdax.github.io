@@ -1,17 +1,19 @@
 ---
-layout: base
+title: titre
 ---
 
-Bienvenue
-==
+![](images/titre)
 
-"SIMDAX" stands for | "SIMDAX" se tient pour dit que :
+Du blabla ininteressant
+<!-- "SIMDAX" stands for | "SIMDAX" se tient pour dit que : -->
+<!-- === -->
 
-||||||
-|-|-|-|-|-|
-Simdax | Invente | Mots | Débutant | Avec | X
-Simdax, | Ignore | Moi. | Donne | Aux | Xénophiles
-Simdax | Interprète | Mélodies | Douces | Au | Xylophone
-Simdax | Is | My | Digital | Acronym. | Xxx
 
+<!-- |||||| -->
+<!-- |-|-|-|-|-| -->
+<!-- Simdax | Invente | Mots | Débutant | Avec | X -->
+<!-- Simdax, | Ignore | Moi. | Donne | Aux | Xénophiles -->
+<!-- Simdax | Interprète | Mélodies | Douces | Au | Xylophone -->
+<!-- Simdax | Is | My | Digital | Acronym. | Xxx -->
+<!-- Salut | Immense | Monstre | Digital. |  -->
 

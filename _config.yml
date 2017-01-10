@@ -3,4 +3,4 @@ theme: jekyll-theme-architect
 
 exclude:
   - redemption
-  - EVO
+  #EVO

@@ -2,5 +2,5 @@ title: SIMDAX
 theme: jekyll-theme-architect
 
 exclude:
-  - redemption
+ # - redemption
   #EVO
